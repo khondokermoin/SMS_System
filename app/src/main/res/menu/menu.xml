@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item android:id="@+id/categoryFragment"
+        android:title="Contact"
+        android:icon="@drawable/contact"/>
+    <item android:id="@+id/profileFragment"
+        android:title="SMS System"
+        android:icon="@drawable/sms"/>
+
+</menu>
